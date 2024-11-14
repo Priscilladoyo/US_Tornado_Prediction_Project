@@ -1,5 +1,9 @@
 # US Tornado Prediction Project
 
+## By Maria Priscilla Deanne Handoyo
+
+See in Kaggle: https://www.kaggle.com/code/priscillahandoyo/us-tornado-prediction-project
+
 ## Project Overview
 This project analyzes historical storm and tornado data across the United States, focusing on patterns, frequencies, and other key attributes from 1950 to 2021. Using two datasets, `storm.csv` and `us_tornado_dataset_1950_2021.csv`, the analysis aims to uncover insights into tornado occurrences and their impacts on regions across the country.
 
